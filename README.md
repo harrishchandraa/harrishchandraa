@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Arifulla Shaik!
+# 👋 Hey there, I'm Harrish Chandrra!
 
 🚀 **DevOps Engineer** | Azure| AWS | Terraform |VMWare|  Azure Devops| Github Actions | Jenkins | Docker | Kubernetes | CI/CD | Linux
 
