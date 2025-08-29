@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Harrish Chandrra!
+# 👋 Hey there, I'm HarrishChandraa!
 
 🚀 **DevOps Engineer** | Azure| AWS | Terraform |VMWare|  Azure Devops| Github Actions | Jenkins | Docker | Kubernetes | CI/CD | Linux
 
